@@ -26,3 +26,4 @@ The service descriptions and FAQ content are starter copy and should be checked 
 - `prefers-reduced-motion` is respected for visitors who have reduced motion enabled.
 - No form or scheduling backend is connected. Add a secure, privacy-appropriate contact/scheduling provider before collecting client information. Avoid collecting sensitive details through an ordinary website form.
 - The word **Counseling** is spelled correctly in the visible brand text.
+- feature 1
